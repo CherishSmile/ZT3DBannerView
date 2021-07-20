@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZT3DBannerView_Example' do
+  pod 'ZT3DBannerView', :path => '../'
+
+  target 'ZT3DBannerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
