@@ -1,0 +1,16 @@
+PODS:
+  - ZT3DBannerView (0.1.0)
+
+DEPENDENCIES:
+  - ZT3DBannerView (from `../`)
+
+EXTERNAL SOURCES:
+  ZT3DBannerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZT3DBannerView: d06b08fdd9d55d74d7f7ab6c1b628ae27049b8c1
+
+PODFILE CHECKSUM: 4c8afee296ffc212766bb65db98bfcb99645107f
+
+COCOAPODS: 1.10.1
