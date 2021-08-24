@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZT3DBannerView'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of ZT3DBannerView.'
 
   s.homepage         = 'https://github.com/CherishSmile/ZT3DBannerView'
@@ -24,7 +24,6 @@ Pod::Spec.new do |s|
   
   s.source_files = 'ZT3DBannerView/ZT3DBannerView.framework/Headers/*.{h}'
   s.vendored_frameworks = 'ZT3DBannerView/ZT3DBannerView.framework'
-  s.public_header_files = 'ZT3DBannerView/ZT3DBannerView.framework/Headers/*.{h}'
 
   s.dependency 'ZTBase'
   s.dependency 'ZTThirdLibCategories'
